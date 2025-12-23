@@ -6,4 +6,8 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Eadent.Common\Eadent.Common.csproj" />
+  </ItemGroup>
+
 </Project>
